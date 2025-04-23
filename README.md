@@ -12,9 +12,9 @@
 
 - 🌱 I'm currently diving into **The world of Large Language Models and how to build applications with them.**
 
-- 🏫 Studying: Computer Science at Griffith University.
+- 🏫 Bachelor of Computer Science at Griffith University.
 
-- 📫 How to reach me **devansh.kp@outlook.com**
+- 📫 Reach me at **devansh.kp@outlook.com**
 
 
 ### 💻 Tech Stack
