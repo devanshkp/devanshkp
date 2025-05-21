@@ -16,12 +16,9 @@
 
 - 📫 Reach me at **devansh.kp@outlook.com**
 
---- 
-
+<br>
 <h3 align="center">Tech Stack</h3>
-
----
-
+<br>
 <table>
   <tr>
     <td valign="top" width="180px"><strong>Languages</strong></td>
@@ -80,12 +77,9 @@
   </tr>
 </table>
 
---- 
-
+<br>
 <h3 align="center">GitHub Stats</h3>
-
----
-
+<br>
 <p align="center">
 <a href="https://github.com/vivek9patel">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=tokyonight&hide_border=false"/>
