@@ -81,7 +81,7 @@
 <h3 align="center">GitHub Stats</h3>
 <br>
 <p align="center">
-<a href="https://github.com/vivek9patel">
+<a href="https://github.com/devanshkp">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=tokyonight&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a>
