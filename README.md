@@ -10,11 +10,11 @@
   </a>
 </p>
 
-- 🌱 I'm currently diving into **The world of Large Language Models and how to build applications with them.**
+- Currently diving into **The world of Large Language Models and how to build applications with them.**
 
-- 🏫 Bachelor of Computer Science at Griffith University.
+- Bachelor of Computer Science at Griffith University.
 
-- 📫 Reach me at **devansh.kp@outlook.com**
+- Reach me at **devansh.kp@outlook.com**
 
 <br>
 <h3 align="center">Tech Stack</h3>
