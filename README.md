@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Devansh</h1>
-<h3 align="center">Student Software Engineer | ML Focus</h3>
+<h3 align="center">Graduate Software Engineer | ML Focus</h3>
 	
 <p align="center">
   <a href="https://linkedin.com/in/devansh-kapoor">
