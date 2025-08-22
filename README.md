@@ -55,7 +55,7 @@
   <tr>
     <td valign="top"><strong>Databases</strong></td>
     <td>
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+        <img src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> 
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/> 
         <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
     </td>
