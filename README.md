@@ -2,12 +2,8 @@
 <h3 align="center">Graduate Software Engineer | ML Focus</h3>
 	
 <p align="center">
-  <a href="https://linkedin.com/in/devansh-kapoor">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:devansh.kp@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://linkedin.com/in/devansh-kapoor"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:devansh.kp@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 - I’m currently working on [Forge](https://github.com/devanshkp/workout-tracker)
@@ -78,10 +74,8 @@
 <h3 align="center">GitHub Stats</h3>
 <br>
 <p align="center">
-<a href="https://github.com/devanshkp">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</a>
+<a><img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=react&hide_border=true"></img></a> &nbsp;
+<a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></img></a>
 </p>
 
 ---
