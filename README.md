@@ -10,9 +10,22 @@
   </a>
 </p>
 
-- Currently diving into **The world of Large Language Models and how to build applications with them.**
-- Bachelor of Computer Science at Griffith University.
+
+
+
+<p align="center">
+<span style="display: inline-block; text-align: left;">
+
+- Currently diving into **The world of Large Language Models and how to build applications with them.**<br>
+- Bachelor of Computer Science at Griffith University.<br>  
 - Reach me at **devansh.kp@outlook.com**
+
+</span>
+</p>
+
+
+
+
 
 <br>
 <h3 align="center">Tech Stack</h3>
