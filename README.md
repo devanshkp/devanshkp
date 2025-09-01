@@ -10,22 +10,11 @@
   </a>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 I’m currently working on [Forge](github.com/devanshkp/workout-tracker)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bachelor of Computer Science at Griffith University.
 
-
-<p align="center">
-<span style="display: inline-block; text-align: left;">
-
-- Currently diving into **The world of Large Language Models and how to build applications with them.**<br>
-- Bachelor of Computer Science at Griffith University.<br>  
-- Reach me at **devansh.kp@outlook.com**
-
-</span>
-</p>
-
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reach me at **devansh.kp@outlook.com**
 
 <br>
 <h3 align="center">Tech Stack</h3>
@@ -57,6 +46,8 @@
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/> 
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> 
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> 
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/> 
     </td>
   </tr>
   <tr>
@@ -88,10 +79,11 @@
 <br>
 <p align="center">
 <a href="https://github.com/devanshkp">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </a>
 </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devanshkp&icon=0&color=0)](https://visitcount.itsvg.in)
+
