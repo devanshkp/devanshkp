@@ -1,12 +1,11 @@
-<h1>Hey, I'm Devansh</h1>
-<h3>Graduate Software Engineer | ML Focus</h3>
+<h1 align="center">Hey, I'm Devansh</h1>
+<h3 align="center">Graduate Software Engineer | ML Focus</h3>
 	
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/devansh-kapoor"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:devansh.kp@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-&nbsp;
 - I’m currently working on [Forge](https://github.com/devanshkp/workout-tracker)
 
 - Bachelor of Computer Science at Griffith University.
@@ -14,9 +13,9 @@
 - Reach me at **devansh.kp@outlook.com**
 
 <br>
-<h3>Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <br>
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="180px"><strong>Languages</strong></td>
     <td>
@@ -72,13 +71,12 @@
 </table>
 
 <br>
-<h3>GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <br>
-<p>
+<p align="center">
 <a><img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=react&hide_border=true"></img></a> &nbsp;
 <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></img></a>
 </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devanshkp&icon=0&color=0)](https://visitcount.itsvg.in)
-
