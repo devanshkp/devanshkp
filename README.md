@@ -10,11 +10,11 @@
   </a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 I’m currently working on [Forge](github.com/devanshkp/workout-tracker)
+- I’m currently working on [Forge](github.com/devanshkp/workout-tracker)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bachelor of Computer Science at Griffith University.
+- Bachelor of Computer Science at Griffith University.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reach me at **devansh.kp@outlook.com**
+- Reach me at **devansh.kp@outlook.com**
 
 <br>
 <h3 align="center">Tech Stack</h3>
