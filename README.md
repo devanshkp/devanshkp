@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- I’m currently working on [Forge](github.com/devanshkp/workout-tracker)
+- I’m currently working on [Forge](https://github.com/devanshkp/workout-tracker)
 
 - Bachelor of Computer Science at Griffith University.
 
