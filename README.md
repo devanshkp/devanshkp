@@ -11,15 +11,13 @@
 </p>
 
 - Currently diving into **The world of Large Language Models and how to build applications with them.**
-
 - Bachelor of Computer Science at Griffith University.
-
 - Reach me at **devansh.kp@outlook.com**
 
 <br>
 <h3 align="center">Tech Stack</h3>
 <br>
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="180px"><strong>Languages</strong></td>
     <td>
