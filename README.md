@@ -75,7 +75,6 @@
 <br>
 <p align="center">
 <a><img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=devanshkp&theme=react&hide_border=true"></img></a> &nbsp;
-<a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkp&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></img></a>
 </p>
 
 ---
